@@ -1,1 +1,1 @@
-print("Them code")
+print("Them code tren nhanh moi")
